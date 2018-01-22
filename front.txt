@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 wew
 inupdate ni glen
+=======
+wew alain updateda
+>>>>>>> refs/remotes/origin/alain0830
